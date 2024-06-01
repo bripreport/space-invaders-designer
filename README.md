@@ -1,4 +1,4 @@
-**Space Invaders Game**
+# Space Invaders Game
 
 This is a simple implementation of the Space Invaders game using Python and the custom Designer library.
 
